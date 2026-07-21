@@ -1,6 +1,8 @@
-# Local AI
+# BeeAI
 
-A local retrieval-augmented AI assistant powered by Ollama and custom document indexing.
+Why BeeAI? 'Cuz I'm Beezity
+
+A local retrieval-augmented AI assistant powered by Ollama and custom document indexing. Mainly intended for writing with specific parameters.
 
 Fully offline once set up properly with model and knowledge.
 
